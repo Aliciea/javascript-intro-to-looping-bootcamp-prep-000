@@ -187,7 +187,7 @@ below:
 ```javascript
 var i = 0;
 
-function incrementVariable() {
+ incrementVariable()function {
   i = i + 1;
   return i;
 }
